@@ -22,4 +22,4 @@ This project is an interactive dashboard built to analyze sales orders data for 
 You can view the live interactive dashboard [here](https://project.novypro.com/hr7apq).
 
 ## Screenshot
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Screenshot.png)
