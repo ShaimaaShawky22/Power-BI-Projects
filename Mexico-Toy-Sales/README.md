@@ -63,7 +63,7 @@ To help stakeholders (management, sales, and inventory teams) track business per
   
 
 ## 🔗 Project Link
-You can view the full project with visuals on my GitHub repository:  
+You can view the full project with visuals:  
 [👉 Click here to view the dashboard project](https://project.novypro.com/LMkEwd)
 
 ---
