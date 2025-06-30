@@ -43,8 +43,11 @@ The analysis is done using Power BI to uncover key drivers of churn and provide 
 
 ## 📁 Files
 
-- `Telco-customer-churn.pbix`: Power BI file with full analysis
-- `dashboard.png`: Final dashboard snapshot
+📊 **Power BI File**  
+[Download Telco-customer-churn.pbix](./Telco-customer-churn.pbix)
+
+🖼️ **Dashboard Preview**  
+![Dashboard](./dashboard.png)
 
 ---
 
